@@ -7,6 +7,6 @@ Hello,
 I've attempted two experiments on the MSP430.
 The first experiment involved signal generation.
 The second experiment consisted of signal acquisition, processing, and transmission at a basic software level.
-
+ 
 
 I hope you will enjoy :) 
